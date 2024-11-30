@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {一、}问题重述}{4}{section.1}
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题背景}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题提出}{4}{subsection.1.2}
+\contentsline {section}{\numberline {二、}问题分析}{5}{section.2}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题一的分析}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题二的分析}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三的分析}{5}{subsection.2.3}
+\contentsline {section}{\numberline {三、}模型假设}{5}{section.3}
+\contentsline {section}{\numberline {四、}符号说明}{6}{section.4}
+\contentsline {section}{\numberline {五、}动力学模型建立与求解}{6}{section.5}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型的原理与建立}{6}{subsection.5.1}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型求解}{6}{subsection.5.2}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}模型总结}{8}{subsection.5.3}
+\contentsline {section}{\numberline {六、}问题求解与模型评估}{9}{section.6}
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题一 模型的建立与求解}{9}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型建立}{9}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}利用三次样条插值法求解曲率函数}{10}{subsubsection.6.1.2}
+\contentsline {paragraph}{建立三次函数}{10}{section*.6}
+\contentsline {paragraph}{曲率函数}{11}{section*.7}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}动力学模型求解坐标对应曲率}{13}{subsubsection.6.1.3}
+\contentsline {paragraph}{测试1}{13}{section*.11}
+\contentsline {paragraph}{测试2}{14}{section*.15}
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题二 模型的建立与求解}{15}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型建立}{15}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}利用动力学模型法求离散坐标值}{15}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}利用多项式拟合法求曲率方程}{17}{subsubsection.6.2.3}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}曲线特征分析}{19}{subsubsection.6.2.4}
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三 模型的建立与求解}{19}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}等间距弧长采样}{19}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}利用插值法求曲率函数}{20}{subsubsection.6.3.2}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}利用动力学模型曲线重构}{21}{subsubsection.6.3.3}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}误差分析}{22}{subsubsection.6.3.4}
+\contentsline {section}{\numberline {七、}模型的评价与推广}{23}{section.7}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型的优点}{23}{subsection.7.1}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型的缺点}{24}{subsection.7.2}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}模型的改进}{24}{subsection.7.3}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}模型的推广}{24}{subsection.7.4}
+\contentsline {section}{参考文献}{24}{section*.30}
+\contentsline {section}{\numberline {A}程序代码}{25}{appendix.A}
